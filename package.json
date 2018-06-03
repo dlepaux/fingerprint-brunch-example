@@ -9,6 +9,7 @@
   "author": "David Lepaux <d.lepaux@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "test": "npm install -g brunch && brunch build",
     "watch": "brunch w"
   },
   "dependencies": {
