@@ -32,4 +32,4 @@ exports.config =
       publicRootPath: './public'
       srcBasePath: './public'
       destBasePath: './public'
-      assetsToFingerprint: '/img/troll.png'
+      assetsToFingerprint: ['/img/troll.png']
